@@ -13,6 +13,8 @@
 
 ## Develop
 
+### 서버 아키텍처
+- [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
 
 ## Writing
 ### Markdown
