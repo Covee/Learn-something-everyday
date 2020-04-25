@@ -16,6 +16,11 @@
 ### 서버 아키텍처
 - [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
 
+### Python
+
+### Django
+- [DRF API문서 자동화하기](https://medium.com/towncompany-engineering/%EC%B9%9C%EC%A0%88%ED%95%98%EA%B2%8C-django-rest-framework-api-%EB%AC%B8%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-drf-yasg-c835269714fc)
+
 ## Writing
 ### Markdown
 - [Online Markdown Editor](https://dillinger.io)
