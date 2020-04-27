@@ -10,7 +10,8 @@
 ## How to consume
 - Category: 순서 없이 일단 작성. ```Ctrl(Cmd) + F``` 로 검색하는 방법이 있으니까 참고할 것.
 - Commit Message: 링크한 컨텐츠에 대한 간략한 설명.
-- 웹 메모장: <data:text/html, <body contenteditable style="font: 2rem/1.5 monospace;max-width:60rem;margin:0 auto;padding:4rem;">>
+- 웹 메모장(코드 복사해서 url창에 입력하면 됨):  
+  data:text/html, <body contenteditable style="font: 2rem/1.5 monospace;max-width:60rem;margin:0 auto;padding:4rem;">
 
 ## Develop
 
