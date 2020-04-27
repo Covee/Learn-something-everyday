@@ -13,6 +13,9 @@
 
 ## Develop
 
+### 배포(Deployment)
+- [하루 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
+
 ### 서버 아키텍처
 - [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
 
