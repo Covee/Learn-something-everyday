@@ -13,6 +13,9 @@
 
 ## Develop
 
+### CI 툴
+- [CI툴 비교(Jenkins vs Circle CI vs Travis CI](https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins)
+
 ### 배포(Deployment)
 - [하루 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 
