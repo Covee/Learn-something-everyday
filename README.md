@@ -24,6 +24,10 @@
 ### 서버 아키텍처
 - [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
 
+### AWS
+#### Lambda
+- [AWS Lambda란?](https://www.44bits.io/ko/keyword/aws-lambda)
+
 ### Python
 - [파이썬의 변수](https://www.slideshare.net/ChrisCho2/pycon-korea-2019)
 
