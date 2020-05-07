@@ -45,4 +45,4 @@
 
 
 ## Motivation
-
+- [동기부여 메모수첩을 매일 들고다니는 이유](https://brunch.co.kr/@visualvision/83)
