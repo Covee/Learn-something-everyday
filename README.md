@@ -13,6 +13,9 @@
 
 ## Develop
 
+### 사이드 프로젝트
+- [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
+
 ### 문서화(Docs)
 - [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
 ### CI 툴
