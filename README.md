@@ -26,6 +26,7 @@
 
 ### 서버 아키텍처
 - [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
+- [넷플릭스 마이크로 서비스(MSA) 가이드](https://dong-life.tistory.com/90)
 
 ### Docker
 - [도커 입문편](https://www.44bits.io/ko/post/easy-deploy-with-docker)
