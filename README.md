@@ -20,6 +20,8 @@
 - [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
 ### CI 툴
 - [CI툴 비교(Jenkins vs Circle CI vs Travis CI)](https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins)
+### Git
+- [공식 git book](https://git-scm.com/book/ko/v2)
 
 ### 배포(Deployment)
 - [하루 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
