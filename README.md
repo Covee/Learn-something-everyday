@@ -42,6 +42,7 @@
 ### Python
 - [파이썬의 변수](https://www.slideshare.net/ChrisCho2/pycon-korea-2019)
 - [파이썬 날짜 시간 모듈 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
+- [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 
 ### Django
 - [DRF API문서 자동화하기](https://medium.com/towncompany-engineering/%EC%B9%9C%EC%A0%88%ED%95%98%EA%B2%8C-django-rest-framework-api-%EB%AC%B8%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-drf-yasg-c835269714fc)
