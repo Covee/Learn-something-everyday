@@ -15,6 +15,7 @@
 
 ### 사이드 프로젝트
 - [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
+- [진짜 심심해서 대충 만든 검색서비스의 수익이?](https://blog.naver.com/hidejj79/221987279200)
 
 ### 문서화(Docs)
 - [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
