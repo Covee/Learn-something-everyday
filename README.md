@@ -34,7 +34,11 @@
 
 ### Docker
 - [도커 입문편](https://www.44bits.io/ko/post/easy-deploy-with-docker)
+### Kubernetes
+- [Kubernetes(쿠버네티스)를 소개합니다](https://deveric.tistory.com/103)
+
 ---
+
 ### AWS
 #### Lambda
 - [AWS Lambda란?](https://www.44bits.io/ko/keyword/aws-lambda)
