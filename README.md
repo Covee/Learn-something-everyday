@@ -64,6 +64,8 @@
 ### Markdown
 - [Online Markdown Editor](https://dillinger.io)
 
+## 읽어볼만한 포스트
+- [개발자 채용시 기술검증 어떻게 할 것인가](https://jojoldu.tistory.com/285#ref=github)
 
 ## Motivation
 - [동기부여 메모수첩을 매일 들고다니는 이유](https://brunch.co.kr/@visualvision/83)
