@@ -1,4 +1,4 @@
-# Learn-something-everyday
+# Learn something everyday
 개발관련 자료와 동기부여, 글쓰기의 중요함 등의 내외적으로 중요하고 관심있는 부분에 대한 자료를 수집하는 repo.  
 
 > 누구나 그렇듯 동기부여는 참 중요하다.  
