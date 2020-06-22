@@ -32,6 +32,9 @@
 - [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
 - [넷플릭스 마이크로 서비스(MSA) 가이드](https://dong-life.tistory.com/90)
 
+### SSR
+- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+
 ### Docker
 - [도커 입문편](https://www.44bits.io/ko/post/easy-deploy-with-docker)
 ### Kubernetes
