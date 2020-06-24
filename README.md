@@ -19,6 +19,9 @@
 
 ### 문서화(Docs)
 - [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
+### 디자인 패턴
+- [(번역) 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+
 ### CI 툴
 - [CI툴 비교(Jenkins vs Circle CI vs Travis CI)](https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins)
 - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
