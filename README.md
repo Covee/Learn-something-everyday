@@ -19,8 +19,10 @@
 
 ### 문서화(Docs)
 - [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
-### 디자인 패턴
+### 아키텍처 패턴
 - [(번역) 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+### 디자인 패턴
+
 
 ### CI 툴
 - [CI툴 비교(Jenkins vs Circle CI vs Travis CI)](https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins)
@@ -34,6 +36,9 @@
 ### 서버 아키텍처
 - [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
 - [넷플릭스 마이크로 서비스(MSA) 가이드](https://dong-life.tistory.com/90)
+
+### REST
+- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
 
 ### SSR
 - [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
