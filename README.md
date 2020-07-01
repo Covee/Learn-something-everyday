@@ -11,6 +11,9 @@
 - Category: 순서 없이 일단 작성. ```Ctrl(Cmd) + F``` 로 검색하는 방법이 있으니까 참고할 것.
 - Commit Message: 링크한 컨텐츠에 대한 간략한 설명.
 
+### Markdown
+- [Online Markdown Editor](https://dillinger.io)
+
 ## Develop
 
 ### 사이드 프로젝트
@@ -75,18 +78,20 @@
 - [프론트엔드 인터뷰 문제 답해보기](https://velog.io/@jakeseo_me/series/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%AC%B8%EC%A0%9C-%EB%8B%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 ---
-
-## Writing
+## Posts
+### Writing
 - [나다운 글쓰기 수련법](http://blog.weirdx.io/post/61637)
-### Markdown
-- [Online Markdown Editor](https://dillinger.io)
 
-## 읽어볼만한 포스트
+### 읽어볼만한 포스트
 - [개발자 채용시 기술검증 어떻게 할 것인가](https://jojoldu.tistory.com/285#ref=github)
----
+
 ### 인터뷰
 - [JBee(한재엽)님의 기술면접 자료 Repo](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
-## Motivation
+### Motivation
 - [동기부여 메모수첩을 매일 들고다니는 이유](https://brunch.co.kr/@visualvision/83)
 - [남들 다 한다는 기술 블로그, 왜 나만 하기 힘들까](https://wormwlrm.github.io/2020/02/23/Writing-for-developers.html)
+
+---
+
+## Blogs
