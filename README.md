@@ -54,7 +54,6 @@
 ### Kubernetes
 - [Kubernetes(쿠버네티스)를 소개합니다](https://deveric.tistory.com/103)
 
----
 
 ### AWS
 #### Lambda
@@ -77,7 +76,7 @@
 ### FrontEnd
 - [프론트엔드 인터뷰 문제 답해보기](https://velog.io/@jakeseo_me/series/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%AC%B8%EC%A0%9C-%EB%8B%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
----
+
 ## Posts
 ### Writing
 - [나다운 글쓰기 수련법](http://blog.weirdx.io/post/61637)
@@ -92,6 +91,6 @@
 - [동기부여 메모수첩을 매일 들고다니는 이유](https://brunch.co.kr/@visualvision/83)
 - [남들 다 한다는 기술 블로그, 왜 나만 하기 힘들까](https://wormwlrm.github.io/2020/02/23/Writing-for-developers.html)
 
----
 
 ## Blogs
+- [재그지그의 개발 블로그](https://wormwlrm.github.io/)
