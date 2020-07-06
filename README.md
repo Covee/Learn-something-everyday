@@ -35,6 +35,7 @@
 - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
 ### Git
 - [공식 git book](https://git-scm.com/book/ko/v2)
+- [GitFlow? 들어도 봤고, 쓰고도 있는데...](https://blog.gangnamunni.com/post/understanding_git_flow/)
 
 ### 배포(Deployment)
 - [하루 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
