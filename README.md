@@ -26,6 +26,8 @@
 - [(번역) 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 ### 디자인 패턴
 
+### 알고리즘(Algorithm)
+- [(번역) 알고리즘 쉽게 이해하기 : 시간 복잡도와 Big-O 표기](https://joshuajangblog.wordpress.com/2016/09/21/time_complexity_big_o_in_easy_explanation/)
 
 ### TDD
 - [테스트 자동화 도입 여정기(python)](https://medium.com/29cm/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95%EA%B8%B0-69893f2cb064)
