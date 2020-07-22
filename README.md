@@ -58,11 +58,12 @@
 ### Kubernetes
 - [Kubernetes(쿠버네티스)를 소개합니다](https://deveric.tistory.com/103)
 
-
 ### AWS
 #### Lambda
 - [AWS Lambda란?](https://www.44bits.io/ko/keyword/aws-lambda)
 
+## DB
+- [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
 ---
 
 ### Python
