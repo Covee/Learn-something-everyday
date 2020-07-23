@@ -43,6 +43,9 @@
 ### 배포(Deployment)
 - [하루 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 
+### 자동화(Automation)
+- [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
+
 ### 서버 아키텍처
 - [듀랑고 서버 아키텍처 발표자료](https://www.slideshare.net/sublee/lt-vol-2)
 - [넷플릭스 마이크로 서비스(MSA) 가이드](https://dong-life.tistory.com/90)
