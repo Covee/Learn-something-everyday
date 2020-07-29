@@ -115,4 +115,4 @@
 
 ## Blogs
 - [재그지그의 개발 블로그](https://wormwlrm.github.io/)
-- [LINE 공식 블로그](https://engineering.linecorp.com/ko/blog/)
+- [LINE 공식 개발 블로그](https://engineering.linecorp.com/ko/blog/)
