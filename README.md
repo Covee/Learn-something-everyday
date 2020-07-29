@@ -110,6 +110,7 @@
 ### Motivation
 - [동기부여 메모수첩을 매일 들고다니는 이유](https://brunch.co.kr/@visualvision/83)
 - [남들 다 한다는 기술 블로그, 왜 나만 하기 힘들까](https://wormwlrm.github.io/2020/02/23/Writing-for-developers.html)
+- [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 
 
 ## Blogs
