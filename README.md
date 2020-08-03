@@ -86,6 +86,9 @@
 
 ### JavaScript
 
+#### TypeScript
+- [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript/)
+
 #### NodeJS
 - [당근마켓의 푸시알림을 지탱하고 있는 Node.js 서비스](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%98-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-node-js-%EC%84%9C%EB%B9%84%EC%8A%A4-19023ad86fc)
 
