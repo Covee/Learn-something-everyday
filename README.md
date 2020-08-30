@@ -71,6 +71,9 @@
 
 ## DB
 - [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
+
+### MySQL
+- [MySQL where in (서브쿼리) vs 조인 조회 성능 비교 (5.5 vs 5.6)](https://jojoldu.tistory.com/520)
 ---
 
 ## Backend
