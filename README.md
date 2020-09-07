@@ -38,6 +38,7 @@
 ### CI 툴
 - [CI툴 비교(Jenkins vs Circle CI vs Travis CI)](https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins)
 - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
+- [CI/CD 의 개념, 적용해본 후기](https://deveric.tistory.com/106?category=387263)
 ### Git
 - [공식 git book](https://git-scm.com/book/ko/v2)
 - [GitFlow? 들어도 봤고, 쓰고도 있는데...](https://blog.gangnamunni.com/post/understanding_git_flow/)
