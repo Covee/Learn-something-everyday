@@ -92,7 +92,9 @@
 - [github repository로 python pip install 만드는 방법 정리](https://lsjsj92.tistory.com/592)
 
 #### Django
+- [Django 3.1 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
 - [DRF API문서 자동화하기](https://medium.com/towncompany-engineering/%EC%B9%9C%EC%A0%88%ED%95%98%EA%B2%8C-django-rest-framework-api-%EB%AC%B8%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-drf-yasg-c835269714fc)
+
 
 
 ### JavaScript
