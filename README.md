@@ -72,6 +72,8 @@
 - [Amazon EC2 사용 팁 3종 세트](https://velog.io/@ausg/Amazon-EC2-%EC%82%AC%EC%9A%A9-%ED%8C%81-3%EC%A2%85-%EC%84%B8%ED%8A%B8-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%98%A8%EC%98%A4%ED%94%84-%EB%B0%B1%EC%97%85-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0)
 #### Lambda
 - [AWS Lambda란?](https://www.44bits.io/ko/keyword/aws-lambda)
+#### API Gateway
+- [API Gateway 소개](https://meetup.toast.com/posts/201)
 
 ## DB
 - [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
