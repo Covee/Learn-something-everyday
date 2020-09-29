@@ -129,6 +129,7 @@
 ### 읽어볼만한 포스트
 - [개발자 채용시 기술검증 어떻게 할 것인가](https://jojoldu.tistory.com/285#ref=github)
 - [2020 NAVER TECH CONCERT ONLINE](https://d2.naver.com/news/6137384)
+- [개발자로 이직하기(feat. Toss NEXT 개발자 채용를 마치며)](https://samslow.github.io/diary/2020/09/26/tossNextReview/)
 
 ### 인터뷰
 - [JBee(한재엽)님의 기술면접 자료 Repo](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
