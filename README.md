@@ -27,6 +27,7 @@
 ### 아키텍처 패턴
 - [(번역) 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 - [타다의 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?fbclid=IwAR1TJy9RpUzM-iR0QZoF0W1pMNjCoZDDvs0tVf21uv01eCX59ulTI0QBT-8)
+- [마틴 파울러가 말하는 소프트웨어 아키텍처](https://jusths.tistory.com/178)
 ### 디자인 패턴
 
 ### 알고리즘(Algorithm)
