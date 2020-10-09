@@ -104,6 +104,7 @@
 ### JavaScript
 - [2020년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4268738)
 - [자바스크립트의 스코프와 클로저](https://meetup.toast.com/posts/86)
+- [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 
 #### TypeScript
 - [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript/)
