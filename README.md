@@ -35,6 +35,7 @@
 
 ### TDD
 - [테스트 자동화 도입 여정기(python)](https://medium.com/29cm/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95%EA%B8%B0-69893f2cb064)
+- [[Agile] TDD(테스트 주도 개발)란](https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html)
 
 ### CI / CD / TEST
 - [CI툴 비교(Jenkins vs Circle CI vs Travis CI)](https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins)
@@ -44,7 +45,9 @@
 #### Github Actions
 - [Github Actions Documentation](https://docs.github.com/en/free-pro-team@latest/actions)
 - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
-
+  
+    
+    
 ### Git
 - [공식 git book](https://git-scm.com/book/ko/v2)
 - [GitFlow? 들어도 봤고, 쓰고도 있는데...](https://blog.gangnamunni.com/post/understanding_git_flow/)
