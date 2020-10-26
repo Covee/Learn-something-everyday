@@ -54,6 +54,7 @@
 - [Git 브랜치 전략](https://velog.io/@jinuku/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5)
 - [Git 협업 가이드](https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C)
 - [Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
+- [Git rebase로 협업 고수되기](https://yangeok.github.io/git/2020/10/24/git-rebase.html)
 
 ### 배포(Deployment)
 - [하루 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
