@@ -117,6 +117,7 @@
 - [Django ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/)
 - [Django에서는 QuerySet이 당신을 만듭니다 (1)](https://medium.com/deliverytechkorea/django-queryset-1-14b0cc715eb7)
 
+----
 
 ### JavaScript
 - [2020년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4268738)
