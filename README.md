@@ -115,6 +115,7 @@
 - [DRF API문서 자동화하기](https://medium.com/towncompany-engineering/%EC%B9%9C%EC%A0%88%ED%95%98%EA%B2%8C-django-rest-framework-api-%EB%AC%B8%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-drf-yasg-c835269714fc)
 - [django-celery-beat를 활용한 자동화](https://medium.com/bigpearl/%EC%95%84%EC%A7%81%EB%8F%84-%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%A5%BC-%EC%A7%81%EC%A0%91-%EB%B3%B4%EB%82%B4%EC%8B%9C%EB%82%98%EC%9A%94-django-celery-beat%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9E%90%EB%8F%99%ED%99%94-dceea7016a24)
 - [Django ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/)
+- [Django에서는 QuerySet이 당신을 만듭니다 (1)](https://medium.com/deliverytechkorea/django-queryset-1-14b0cc715eb7)
 
 
 ### JavaScript
