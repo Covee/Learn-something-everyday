@@ -89,6 +89,8 @@
 - [Amazon EC2 사용 팁 3종 세트](https://velog.io/@ausg/Amazon-EC2-%EC%82%AC%EC%9A%A9-%ED%8C%81-3%EC%A2%85-%EC%84%B8%ED%8A%B8-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%98%A8%EC%98%A4%ED%94%84-%EB%B0%B1%EC%97%85-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0)
 #### Lambda
 - [AWS Lambda란?](https://www.44bits.io/ko/keyword/aws-lambda)
+- [300원에 200만뷰 소화하기 – 서버리스 아키텍처 AWS 람다(Lambda) 활용 사례](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/)
+
 #### API Gateway
 - [API Gateway 소개](https://meetup.toast.com/posts/201)
 
