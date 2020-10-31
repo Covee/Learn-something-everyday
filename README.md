@@ -167,6 +167,7 @@
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [애기 아빠 개발자의 ](https://jusths.tistory.com/173)
 - [그런 개발자로 괜찮은가 - '로그 & 모니터링' 편](https://taetaetae.github.io/2020/10/04/a-good-developer-in-terms-of-Log-and-Monitoring/)
+- [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 
 
 ## Blogs
