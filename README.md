@@ -99,6 +99,9 @@
 
 ### MySQL
 - [MySQL where in (서브쿼리) vs 조인 조회 성능 비교 (5.5 vs 5.6)](https://jojoldu.tistory.com/520)
+
+### MongoDB
+- [if-kakao MongoDB 세션 정리](https://sundries-in-myidea.tistory.com/106)
 ---
 
 ## Backend
