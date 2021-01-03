@@ -32,6 +32,7 @@
 ### 디자인 패턴
 
 ### 알고리즘(Algorithm)
+- [알고리즘 공부 시작 방법 및 순서](https://blog.yena.io/studynote/2018/11/14/Algorithm-Basic.html)
 - [(번역) 알고리즘 쉽게 이해하기 : 시간 복잡도와 Big-O 표기](https://joshuajangblog.wordpress.com/2016/09/21/time_complexity_big_o_in_easy_explanation/)
 
 ### TDD
